@@ -1,0 +1,27 @@
+{
+  "name": "property-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.2.0",
+    "wiredep": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlin13/propertymanager-frontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlin13/propertymanager-frontEnd/issues"
+  },
+  "homepage": "https://github.com/arlin13/propertymanager-frontEnd#readme",
+  "description": ""
+}
